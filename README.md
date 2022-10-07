@@ -4,8 +4,8 @@ To implement a perceptron for classification using Python
 
 ## EQUIPMENTS REQUIRED:
 
- Hardware – PCs
- Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## RELATED THEORETICAL CONCEPT:
 A Perceptron is a basic learning algorithm invented in 1959 by Frank Rosenblatt. It is meant to mimic the working logic of a biological neuron. The human brain is basically a collection of many interconnected neurons. Each one receives a set of inputs, applies some sort of computation on them and propagates the result to other neurons.
